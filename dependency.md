@@ -1,0 +1,1 @@
+ The Jackson library is composed of three components: Jackson Databind, Core, and Annotation. Jackson Databind has internal dependencies on Jackson Core and Annotation. Therefore, adding Jackson Databind to your Maven POM dependency list will include the other dependencies as well. 
